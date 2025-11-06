@@ -1,4 +1,4 @@
-<img width="422" height="244" alt="image" src="https://github.com/user-attachments/assets/41f366e6-9803-47df-8a6d-37cc5bc86d5f" /># # Python OOP: Polymorphism with Classes
+# # Python OOP: Polymorphism with Classes
 
 ## AIM
 
