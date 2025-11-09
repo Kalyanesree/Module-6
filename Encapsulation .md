@@ -1,4 +1,4 @@
-# Python OOP: Encapsulation with Private Members
+# EX 6 (B) Python OOP: Encapsulation with Private Members
 
 ## AIM
 
