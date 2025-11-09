@@ -1,4 +1,4 @@
-# Python OOP: Operator Overloading (Less Than `<`)
+# EX 6 (D) Python OOP: Operator Overloading (Less Than `<`)
 
 ## AIM
 
